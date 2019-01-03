@@ -1,10 +1,10 @@
 
 # GIT使用指南
 
->Auth: 王海飞
->Data：2018-03-19
->Email：779598160@qq.com
->github：https://github.com/coco369/knowledge
+>Auth: 刘欣
+>Data：2018-09-19
+>Email：1304924993@qq.com
+>github：https://github.com/1304924993/knowledge
 
 ---
 
